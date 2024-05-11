@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Pyth And C++
 - 💞️ I’m looking to collaborate on Nothing Yet
-- 📫 How to reach me Eminem
+- 📫 How to reach me : Stay Far away
 - 😄 Pronouns: ...
 - ⚡ Fun fact: A Human Being to be specific
 
