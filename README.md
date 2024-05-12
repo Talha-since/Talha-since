@@ -2,9 +2,9 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Pyth And C++
 - 💞️ I’m looking to collaborate on Nothing Yet
-- 📫 How to reach me : Stay Far away
+- 📫 How to reach me: Stay Far away
 - 😄 Pronouns: ...
-- ⚡ Fun fact: A Human Being to be specific
+- ⚡ Fun fact: That story for a different day....
 
 <!---
 Talha-since/Talha-since is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
