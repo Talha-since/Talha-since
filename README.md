@@ -1,3 +1,19 @@
+## About me
+
+Hi, I'm Talha. 
+
+
+# Programming Languages:
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+|     4| C         |
+|     5| C++       |
+
+
+
 - 👋 Hi, I’m @Talha-since aka AbuTalha Khalil
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Pyth And C++
