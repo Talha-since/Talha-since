@@ -24,7 +24,7 @@ Hi, I'm Talha.
 - ⚡ Fun fact: That story for a different day....
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Talha-since)](https://git.io/streak-stats)
 
 <!---
 Talha-since/Talha-since is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
